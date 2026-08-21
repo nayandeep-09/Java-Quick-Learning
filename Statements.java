@@ -18,5 +18,13 @@ public class Statements {
             j=0;
         //  as the 10 was not greater than 20 so else part will be executed and the value of j will be 0.
         System.out.println(j);
+
+        int n1=40;
+        int n2=56;
+
+        if (n1+n2 == 100)
+            System.out.println("Sum is 100");
+        else
+            System.out.println("Sum is " + (n1 + n2));
     }
 }
