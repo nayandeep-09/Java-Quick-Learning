@@ -22,5 +22,14 @@ public class Basic_fuctions {
         System.out.print("Enter a number: ");  
         int input = sc.nextInt();
         System.out.println("You entered: " + input);
+
+
+
+        int age=10;
+        float height=20.5f;
+        float weight=55.3f;
+        System.err.println(age + ", " + height + ", " + weight);
+
+
     }
 }
