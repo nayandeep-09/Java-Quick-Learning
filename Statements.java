@@ -26,5 +26,11 @@ public class Statements {
             System.out.println("Sum is 100");
         else
             System.out.println("Sum is " + (n1 + n2));
+
+        int age = 20;
+        if (age >= 18)
+            System.out.println("Person is adult");
+        else
+            System.out.println("Person is not adult");
     }
 }
