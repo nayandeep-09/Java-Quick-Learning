@@ -51,23 +51,5 @@ public class Operators {
         System.out.println(~e); // bitwise NOT operator
         System.out.println(e << 2); // left shift operator
         System.out.println(e >> 2); // right shift operator
-
-
-
-
-        //ternary operator
-
-        int num1 = 10;
-        int num2 = 20;
- 
-        // if (num1 > 10)
-        //     num2 = 120;
-        // else
-        //     num2=0;
-
-        // Replacement short code of ternary operator
-        num2 = (num1 > 10) ? 120 : 0;
-        // if num1 is greater than 10, then num2 will be assigned 120, otherwise it will be assigned 0
-        System.out.println(num2);
-    }
+      }
 }
