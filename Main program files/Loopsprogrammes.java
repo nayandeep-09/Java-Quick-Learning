@@ -42,6 +42,9 @@ public class Loopsprogrammes {
 
         System.out.println("");
 
-
+                // Print numbers 10 to 1
+        for (int b=10; b>=1; b--){
+            System.err.print(b + " ");
+        }
     }
 }
