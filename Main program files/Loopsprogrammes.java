@@ -30,5 +30,18 @@ public class Loopsprogrammes {
             // Move to the next line after completing one row.
             System.out.println();
         }
+
+
+
+        // Print numbers 1 to 10
+        int a=1;
+        while(a<=10){
+            System.out.print(a + " ");
+            a++;
+        }
+
+        System.out.println("");
+
+
     }
 }
