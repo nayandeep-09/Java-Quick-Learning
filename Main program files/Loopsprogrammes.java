@@ -46,7 +46,5 @@ public class Loopsprogrammes {
         for (int b=10; b>=1; b--){
             System.err.print(b + " ");
         }
-
-        //This is how we can use the if nested
     }
 }
