@@ -46,5 +46,7 @@ public class Loopsprogrammes {
         for (int b=10; b>=1; b--){
             System.err.print(b + " ");
         }
+
+        System.out.println("nayandeep");
     }
 }
