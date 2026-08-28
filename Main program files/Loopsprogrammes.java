@@ -47,8 +47,17 @@ public class Loopsprogrammes {
             System.err.print(b + " ");
         }
 
-        System.out.println("nayandeep");
+        //print 
+        /*1
+          1 2
+          1 2 3
+          1 2 3 4 
+          1 2 3 4 5
+          1 2 3 4 5 6 */
+            int y = 0;
+          for (int x=0; x<y ; x++){
+            
+          }
 
-        System.out.println("githubcommandpush");
     }
 }
