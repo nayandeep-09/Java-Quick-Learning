@@ -1,4 +1,4 @@
-public class Numberprintingpattern {
+public class Numberpyramid {
     public static void main(String args[]) {
 
         // Print numbers in a pattern
@@ -9,7 +9,7 @@ public class Numberprintingpattern {
         // 1 2 3
         // 1 2 3 4
         // 1 2 3 4 5
-        // 1 2 3 4 5 6ṇ
+        // 1 2 3 4 5 6
         //
         // We can use nested loops for this.
 
