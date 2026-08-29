@@ -10,9 +10,7 @@ public class Alphabetseries  {
 
          // priniting the alphabets in pyramic form
 
-         
 
-        int a = 10;
-        System.out.println(a);
+         
     }
 }
