@@ -1,5 +1,4 @@
-public class Printonetoten {
-
+public class Printnumberseries {
     public static void main(String args[]) {
 
         // Print numbers 1 to 10 using a while loop

@@ -1,5 +1,4 @@
-package Nesterloopprogrammesandpatterns;
-public class StarPattern {
+public class Starpattern {
     public static void main(String[] args) {
         
         // =====================================================
@@ -23,12 +22,11 @@ public class StarPattern {
             // Inner loop prints 4 values in each row.
             for (int i = 0; i < 4; i++) {
 
-                System.out.print(i + " ");
+                System.out.print( "* ");
             }
 
             // Move to the next line after completing one row.
             System.out.println();
         }
-
     }
 }
