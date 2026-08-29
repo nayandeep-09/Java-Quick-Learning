@@ -1,4 +1,4 @@
-public class Dollarprinting {
+public class Dollarprinting4x4 {
 
     public static void main(String[] args) {
 
