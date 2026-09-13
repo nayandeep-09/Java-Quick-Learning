@@ -47,5 +47,7 @@ public class Dollarprinting5x5 {
             
         }
         System.out.println("i Am holding back for the Java right now to learn python as per my Semester subject");
+        
+        System.out.println();
     }
 }
